@@ -1,6 +1,6 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
+    "title": "Бот, чтобы подарить любовь своему партнеру",
     "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
   },
   "About": {
@@ -162,13 +162,13 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Индивидуальность",
+      "text": "Вы можете быть уверены что вашему партнеру никто и никогда не дарил подобных подарков"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-usd",
+      "title": "Стоимость",
+      "text": "Покупка бота стоит намного меньше чем большинство подарков которые можно купить своей второй половинке, а эффект намного больше!"
     },
     {
       "icon": "fa fa-group",
