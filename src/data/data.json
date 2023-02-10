@@ -1,21 +1,37 @@
 {
   "Header": {
     "title": "Бот, чтобы подарить любовь своему партнеру",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "paragraph": ""
+  },
+  "Description": {
+    "title": "Что это за lovelybot такой?",
+    "paragraph": "MyLovelyBot это чат-бот в telegram, который может рассматриваться как альтернативный вариант подарка для второй половинки"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
-    ],
-    "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+    "title": "Что это за lovelybot такой?",
+    "paragraph": "MyLovelyBot это чат-бот в telegram, который может рассматриваться как альтернативный вариант подарка для второй половинки",
+    "title2": "Как он работает?",
+    "steps": [
+      {
+        "icon": "fa fa-arrow-right",
+        "title": "Активируете бота",
+        "text": ""
+      },
+      {
+        "icon": "fa fa-arrow-right",
+        "title": "Настраиваете и заполняете его с нашей помощью",
+        "text": ""
+      },
+      {
+        "icon": "fa fa-arrow-right",
+        "title": "Дарите своему партнеру",
+        "text": ""
+      },
+      {
+        "icon": "fa fa-heart",
+        "title": "Получаете нескончаемое умилиние и благодарность от вашей второй половинки",
+        "text": ""
+      }
     ]
   },
   "Gallery": [
@@ -65,70 +81,53 @@
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
-  "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
-  ],
-  "Testimonials": [
-    {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    }
-  ],
+  "Services": {
+    "title": "Главные преимущества перед другими подарками",
+    "steps": [
+      {
+        "icon": "fa fa-male",
+        "title": "Индивидуальность",
+        "text": "Вы можете быть уверены что вашему партнеру никто и никогда не дарил подобных подарков"
+      },
+      {
+        "icon": "fa fa-usd",
+        "title": "Стоимость",
+        "text": "Покупка бота стоит намного меньше чем большинство подарков которые можно купить своей второй половинке, а эффект намного больше!"
+      }
+    ],
+    "Testimonials": [
+      {
+        "img": "img/testimonials/01.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/02.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/03.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/04.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      },
+      {
+        "img": "img/testimonials/05.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "John Doe"
+      },
+      {
+        "img": "img/testimonials/06.jpg",
+        "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+        "name": "Johnathan Doe"
+      }
+    ]
+  },
   "Team": [
     {
       "img": "img/team/01.jpg",
@@ -154,7 +153,7 @@
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "email": "mylovelybot.contact@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
