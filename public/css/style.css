@@ -1,7 +1,7 @@
 :root {
-    --color: #fd5757;
-    --background-color: #fd5757;
-    --gradient: linear-gradient(to right, #fd6e6e 0%, #f85050 100%)
+    --color: #f17cff;
+    --background-color: #f17cff;
+    --gradient: linear-gradient(to right, #f17cff 0%, #ef37ff 100%)
 }
 
 body,
